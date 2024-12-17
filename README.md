@@ -36,10 +36,10 @@ The program will output the result to `Output.txt`. The result will be written a
 
 Example output (`Output.txt`):
 
-## How to Get the Code
+# How to Get the Code
 To get the code from this repository, follow these steps:
 
-### Steps to Clone the Repository
+## Steps to Clone the Repository
 Open Git Bash (or Command Prompt, if you're using Windows).
 
 1: Run the following command to clone the repository to your local machine:
