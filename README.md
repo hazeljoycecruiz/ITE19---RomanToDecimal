@@ -36,3 +36,19 @@ The program will output the result to `Output.txt`. The result will be written a
 
 Example output (`Output.txt`):
 
+##How to Get the Code
+To get the code from this repository, follow these steps:
+
+###Steps to Clone the Repository
+Open Git Bash (or Command Prompt, if you're using Windows).
+
+1: Run the following command to clone the repository to your local machine:
+git clone https://github.com/hazeljoycecruiz/ITE19---RomanToDecimal.git
+
+Put your code files into the Folder ITE19---RomanToDecimal
+
+2: Navigate to the project folder: 
+cd ITE19---RomanToDecimal
+
+3: (Optional) If you want to keep your copy of the repository up to date, you can pull any future changes by running:
+git pull origin main
