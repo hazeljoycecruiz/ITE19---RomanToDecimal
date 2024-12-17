@@ -14,7 +14,8 @@ This project is a Roman numeral calculator that supports converting Roman numera
 
 ## Requirements
 
-- C Compiler (e.g., GCC)
+- Code::Blocks
+- C compiler
 
 ## Usage
 
